@@ -1,5 +1,5 @@
 ## Hi there 👋
-- 🌱 I’m currently learning Machine Learning
+- 🌱 I’m currently learning machine learning
 <!--
 **salt25/salt25** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
